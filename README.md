@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">Hi! My name is Brandon. I like to make things...</div>
 
-![](./wordart.png)
+<img src="./wordart.png" width="300" height="40">
 
 - 🔭 I’m currently working on []()
 
