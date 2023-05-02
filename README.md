@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **brawoods/brawoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,17 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://wallpaperaccess.com/full/2825826.gif" align="center" style="width: 100%" />
-</div>  
+![](https://wallpaperaccess.com/full/2825826.gif)
   
 
 ### <div align="center">Hi! My name is Brandon. I like to make things. NOW IN CODE! </div>  
   
-
-![Now in Code!](undefined)  
-  
-
+ 
 - 🔭 I’m currently working on []()  
   
 
