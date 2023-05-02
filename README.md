@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about anything?
 
 
-- ⚡ Fun fact: I've been listen to a lot of city pop recently <a href="https://www.flaticon.com/free-icons/retro" title="retro icons">Retro icons created by Freepik - Flaticon</a>
+- ⚡ Fun fact: I've been listen to a lot of city pop recently <img src="./radio-cassette.png" title="retro icons" width="30" height="20">
 
 
 <br/>
