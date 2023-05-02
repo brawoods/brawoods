@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://wallpaperaccess.com/full/2825826.gif)
+![](./https://wallpaperaccess.com/full/2825826.gif)
 
 
 ### <div align="center">Hi! My name is Brandon. I like to make things...</div>
 
-<img src="./wordart.png" width="300" height="40">
+<div align="center">
+<img src="./wordart.png" width="300" height="100">
+</div>
 
 - 🔭 I’m currently working on []()
 
