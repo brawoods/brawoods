@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://wallpaperaccess.com/full/2825826.gif)
+![](./8-bit-cyberpunk-coding-cityscape.gif)
   
 
 ### <div align="center">Hi! My name is Brandon. I like to make things. NOW IN CODE! </div>  
