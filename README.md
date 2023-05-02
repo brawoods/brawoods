@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="./wordart.png" width="300" height="100">
 </div>
 
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on [Coming Soon!]()
 
 
 - 🌱 I’m currently learning Firebase
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about anything?
 
 
-- ⚡ Fun fact:
+- ⚡ Fun fact: I've been listen to a lot of city pop recently <a href="https://www.flaticon.com/free-icons/retro" title="retro icons">Retro icons created by Freepik - Flaticon</a>
 
 
 <br/>
