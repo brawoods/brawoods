@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Coming Soon!]()
 
 
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Python
 
 
 - ❓ Ask me about anything?
 
 
-- ⚡ Fun fact: I've been listen to a lot of city pop recently
+- ⚡ Fun fact: If you haven't played the game Inscryption yet, you're missing out! 
 
 
 <br/>
