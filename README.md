@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Coming Soon!]()
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Next.js, Tailwind, TypeScript ![Nextjs Dashboard](https://github.com/brawoods/Nextjs-dashboard)
 
 
 - ❓ Ask me about anything?
 
 
-- ⚡ Fun fact: If you haven't played the game Inscryption yet, you're missing out! 
+- ⚡ Fun fact: Recently completed Inscryption. If you haven't played it yet, you're missing out! ![Inscryption Steam Page](https://store.steampowered.com/app/1092790/Inscryption/)
 
 
 <br/>
