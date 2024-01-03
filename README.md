@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <img src="./wordart.png" width="300" height="100">
 </div>
 
-- 🔭 I’m currently working on [Nextjs Dashboard](https://github.com/brawoods/Nextjs-dashboard)
+- 🔭 I’m currently working on my [Portfolio website](https://github.com/brawoods/portfolio)
 
 
 - 🌱 I’m currently learning Next.js, Tailwind, TypeScript
 
 
-- ❓ Ask me about anything?
+- ❓ Ask me about the time I almost got stuck in the mountains of Japan at night? ⛰️
 
 
 - ⚡ Fun fact: Recently completed Inscryption. If you haven't played it yet, you're missing out! [Inscryption Steam Page](https://store.steampowered.com/app/1092790/Inscryption/)
